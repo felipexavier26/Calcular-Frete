@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Heebo', sans-serif;
+    
+}
+body{  
+    background-color: #ccc;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+}  
+form{
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}  
+
+label{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+button{
+    margin-top: 30px;
+}
+#resultado{
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
